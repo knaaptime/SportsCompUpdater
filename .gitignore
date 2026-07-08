@@ -1,3 +1,4 @@
 cache/*
 */reports/*
 **.sqlite3
+*.egg.info
